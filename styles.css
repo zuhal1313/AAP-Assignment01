@@ -1,0 +1,59 @@
+h1 {
+             
+    color:black;
+    background-color:red;
+    font-size:40px;
+    text-align:center; 
+    border:1px solid black;
+    }
+    h2{
+    color:black;
+   background-color:red;
+   border:1px solid:black;
+   
+
+    }
+    img{
+    margin:auto;
+    display:block;
+    width:400px;
+    
+    heigh:400px;
+
+    }
+    
+  
+  stron{
+  color:red;
+  background-color: black;
+  }  
+    
+   section{
+  background-color:red;
+  margin:40px;
+  padding:20x;
+  barder:1px solid black;
+  }  
+
+
+
+
+
+
+  body{
+  background-color:green;
+  }  
+ 
+  html{
+  border:2px solid black;
+  }
+    
+  footer{
+  background-color:red;
+  border:1px solid black;
+  text-align:center;
+  }  
+
+
+    
+    
